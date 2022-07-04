@@ -7,3 +7,6 @@ The changes in new branch1
 
 Changes of pull_branch
 
+
+Master
+
